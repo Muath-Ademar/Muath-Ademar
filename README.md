@@ -18,7 +18,6 @@ Skills:  JS / HTML / CSS/ Python
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> 
 [facebook] (https://www.facebook.com/muazademar)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Muath-Ademar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muath-Ademar&show_icons=true)  
 
