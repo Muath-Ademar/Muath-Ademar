@@ -12,7 +12,7 @@ Skills:  JS / HTML / CSS/ Python
 https://github.com/Muath-Ademar  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'> 
 https://www.linkedin.com/in/muath-ezzughayyar-b6b567277
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'> 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30' margin-bottom ='-10px'> 
 https://www.facebook.com/muazademar   
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Muath-Ademar)](https://github.com/ryo-ma/github-profile-trophy)
