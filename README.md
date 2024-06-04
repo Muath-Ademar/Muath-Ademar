@@ -8,10 +8,9 @@ Skills:  JS / HTML / CSS/ Python
 - 🌱 I’m currently learning  Java, and MERN 
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-(https://github.com/Muath-Ademar)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]https://www.linkedin.com/in/muath-ezzughayyar-b6b567277/
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Muaz Ademar Ezzughayyar )  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> (https://github.com/Muath-Ademar)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>https://www.linkedin.com/in/muath-ezzughayyar-b6b567277/
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/Muaz Ademar Ezzughayyar )  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Muath-Ademar)](https://github.com/ryo-ma/github-profile-trophy)
 
