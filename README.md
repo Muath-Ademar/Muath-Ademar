@@ -11,7 +11,7 @@ Skills:  JS / HTML / CSS/ Python
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'> 
 [github] (https://github.com/Muath-Ademar)  
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'> 
-[Linkedin](https://www.linkedin.com/in/muath-ezzughayyar-b6b567277)
+[Linkedin] (https://www.linkedin.com/in/muath-ezzughayyar-b6b567277)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'> 
 [facebook] (https://www.facebook.com/muazademar)
 
