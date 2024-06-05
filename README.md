@@ -4,9 +4,9 @@ I am a Business Administration graduate currently attending a programing bootcam
 
 Skills:  JS / HTML / CSS/ Python
 
-- 🔭 I’m currently working on a web app called Yelp Palestine, you can find the project ==pinned below==
-- 🌱 I’m currently learning  Java, and MERN
-- 📫 How to reach me: muazademar20@gmail.com 
+- 🔭 I’m currently working on a web app called Yelp Palestine, you can find the project pinned below.
+- 🌱 I’m currently learning  Java, and MERN.
+- 📫 How to reach me: muazademar20@gmail.com.
 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> 
