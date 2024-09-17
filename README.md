@@ -46,10 +46,6 @@
 
 ![Muaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muath-Ademar&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark)
 
-### Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muath-Ademar&theme=dark)
-
 ### Profile Overview
 
 ![GitHub Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muath-Ademar&theme=dark)
