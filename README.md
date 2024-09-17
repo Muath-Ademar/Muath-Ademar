@@ -2,10 +2,8 @@
 #### I love coding, especially the Front-end side of it.
 I am a Business Administration graduate currently attending a programing bootcamp.
 
-Skills:  JS / HTML / CSS/ Python
+Skills:  JS / HTML / CSS/ Python/ Java/ MERN
 
-- 🔭 I’m currently working on a web app called Yelp Palestine, you can find the project pinned below.
-- 🌱 I’m currently learning  Java, and MERN.
 - 📫 How to reach me: muazademar20@gmail.com.
 
 
