@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Muath Ademar.
-#### I love coding, especially the Front-end side of it.
-I am a Business Administration graduate currently attending a programing bootcamp.
+#### I love coding, especially the Front-end side of it. I am a Business Administration graduate who has completed a programming bootcamp.
 
 Skills:  JS / HTML / CSS/ Python/ Java/ MERN
 
