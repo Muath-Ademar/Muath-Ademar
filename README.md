@@ -5,6 +5,7 @@
 <p align="left">I love coding, especially the Front-end side of it. I am a Business Administration graduate who has completed a programming bootcamp.</p>
 
 ###
+
 - 📫 How to reach me: muazademar20@gmail.com.
 
 <p align="left"></p>
@@ -41,6 +42,21 @@
 
 ###
 
+### GitHub Stats
+
+![Muaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muath-Ademar&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muath-Ademar&layout=compact&theme=dark)
+
+### Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muath-Ademar&theme=dark)
+
+### Profile Overview
+
+![GitHub Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muath-Ademar&theme=dark)
 
 ###
 
@@ -52,8 +68,3 @@ Linkedin (https://www.linkedin.com/in/muath-ezzughayyar-b6b567277)
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> 
 facebook (https://www.facebook.com/muazademar)
-
-
-
-
-
