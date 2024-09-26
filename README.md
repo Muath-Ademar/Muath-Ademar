@@ -1,11 +1,12 @@
 # 💫 About Me:
 
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+🔭 I’m currently working on building web applications and improving my skills in full-stack development.<br> 
+👯 I’m looking to collaborate on open-source projects to contribute and learn from others.<br> 
+🤝 I’m looking for help with improving as a developer, refining my problem-solving skills, and staying updated with the latest technologies.<br> 
+🌱 I’m currently learning continuously, exploring new technologies like React, Node.js, and Spring Boot.<br> 
+💬 Ask me about Java, React, or anything web development-related!<br> 
+⚡ Fun fact: The first computer virus was created in 1986 and was called "Brain." It was designed by two brothers to protect their medical software from piracy.
+
 
 ---
 
