@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 🔭 I’m currently working on building web applications and improving my skills in full-stack development.<br> 
 👯 I’m looking to collaborate on open-source projects to contribute and learn from others.<br> 
 🤝 I’m looking for help with improving as a developer, refining my problem-solving skills, and staying updated with the latest technologies.<br> 
@@ -7,18 +6,11 @@
 💬 Ask me about Java, React, or anything web development-related!<br> 
 ⚡ Fun fact: The first computer virus was created in 1986 and was called "Brain." It was designed by two brothers to protect their medical software from piracy.
 
-
-
 ## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muath%20Ez%20Zughayyar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muath-ez-zughayyar-b6b567277/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muazademar20@gmail.com)
 
-
-
-
 # 💻 Tech Stack:
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,33 +31,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 # 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Muath-Ademar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Muath-Ademar&theme=dark&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=Muath-Ademar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muath-Ademar&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muath-Ademar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
+🏆 GitHub Trophies:  
 ![](https://github-profile-trophy.vercel.app/?username=Muath-Ademar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
-
-
-### ✍️ Random Dev Quote:
-
-<div align="center">
-
+✍️ Random Dev Quote:  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+
