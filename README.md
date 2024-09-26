@@ -8,14 +8,13 @@
 ⚡ Fun fact: The first computer virus was created in 1986 and was called "Brain." It was designed by two brothers to protect their medical software from piracy.
 
 
----
 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muath%20Ez%20Zughayyar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muazademar20@gmail.com)
 
----
+
 
 # 💻 Tech Stack:
 
@@ -39,7 +38,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 # 📊 GitHub Stats:
 
@@ -53,7 +51,6 @@
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies:
 
@@ -63,7 +60,6 @@
 
 </div>
 
----
 
 ### ✍️ Random Dev Quote:
 
