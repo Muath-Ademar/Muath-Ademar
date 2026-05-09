@@ -7,7 +7,7 @@
 ⚡ Fun fact: The first computer virus was created in 1986 and was called "Brain." It was designed by two brothers to protect their medical software from piracy.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muaz-zughayyar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/www.linkedin.com/in/muaz-zughayyar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muazademar20@gmail.com)
 
 # 💻 Tech Stack:
